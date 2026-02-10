@@ -1,12 +1,31 @@
 <div align="center">
 
-# &gt; 527NotFound_
+```
+  ███████╗██████╗ ███████╗
+  ██╔════╝╚════██╗╚════██║
+  ███████╗ █████╔╝   ██╔╝
+  ╚════██║██╔═══╝   ██╔╝
+  ███████║███████╗  ██║
+  ╚══════╝╚══════╝  ╚═╝
+  ███╗   ██╗ ██████╗ ████████╗
+  ████╗  ██║██╔═══██╗╚══██╔══╝
+  ██╔██╗ ██║██║   ██║   ██║
+  ██║╚██╗██║██║   ██║   ██║
+  ██║ ╚████║╚██████╔╝   ██║
+  ╚═╝  ╚═══╝ ╚═════╝    ╚═╝
+  ███████╗ ██████╗ ██╗   ██╗███╗   ██╗██████╗
+  ██╔════╝██╔═══██╗██║   ██║████╗  ██║██╔══██╗
+  █████╗  ██║   ██║██║   ██║██╔██╗ ██║██║  ██║
+  ██╔══╝  ██║   ██║██║   ██║██║╚██╗██║██║  ██║
+  ██║     ╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝
+  ╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝
+```
 ### `[ SYSTEM BREACH DETECTED ]`
 
 ### `> whoami`
-**Security Enthusiast | Backend Developer | DevOps Learner**
+**Cybersecurity Learner | Pentester in Training | CTF Player**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F527NotFound&count_bg=%2300FF00&title_bg=%23000000&icon=github&icon_color=%2300FF00&title=visitors&edge_flat=true)](https://github.com/527NotFound)
+[![Hits](https://hits.sh/github.com/527NotFound.svg?style=flat&label=visitors&color=00FF00&labelColor=000000)](https://hits.sh/github.com/527NotFound)
 
 </div>
 
@@ -17,59 +36,48 @@
 ```bash
 #!/bin/bash
 
-alias 527="Security Researcher in Training"
+alias 527="수련 중"
 
-echo "Passionate about breaking things to understand how they work."
-echo "Currently diving deep into cybersecurity while building cool stuff."
+echo "동작 원리를 이해하기 위해 부수는 것에 열정을 가지고 있습니다."
+echo "현재 사이버 보안에 깊이 빠져들며 다양한 것들을 공부하고 있습니다."
 ```
 
-- Currently studying **Cybersecurity & Penetration Testing**
-- Building projects with **Python, Docker, Kubernetes**
-- Interested in **Web Security, Network Security, Reverse Engineering**
-- Organization: **[@playwith404](https://github.com/playwith404)**
+- 현재 **사이버 보안 & 모의해킹** 공부 중
+- **Python, Docker, Kubernetes**로 프로젝트 진행 중
+- **웹 보안, 네트워크 보안, 리버스 엔지니어링**에 관심
+- 소속: **[@playwith404](https://github.com/playwith404)**
 
 ---
 
-### `> ls ./tech_stack/`
+### `> ls ./security_tools/`
 
 <div align="center">
 
-**Languages**
+**OS & Distro**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=00FF00)
+![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=archlinux&logoColor=00FF00)
+
+**Scripting**
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF00)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF00)
 
-**Frameworks & Tools**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00FF00)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00FF00)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00FF00)
-
-**DevOps & Infra**
+**Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00FF00)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=00FF00)
-![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=00FF00)
-
-**Security**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=00FF00)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF00)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=hackthebox&logoColor=00FF00)
 
 </div>
 
 ---
 
-### `> ./github_stats.sh`
+### `> cat ./platform_profiles.md`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=527NotFound&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF00&icon_color=00FF00&title_color=00FF00&text_color=c9d1d9&hide_border=false" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=527NotFound&theme=chartreuse-dark&background=0d1117&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=527NotFound&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF00&title_color=00FF00&text_color=c9d1d9" width="40%" />
+<a href="https://tryhackme.com/p/zahaLee"><img src="https://tryhackme-badges.s3.amazonaws.com/zahaLee.png" alt="TryHackMe" width="48%" /></a>
+<a href="https://app.hackthebox.com/profile/019c47f0-5f0a-72d3-9a6c-b77918f3169f"><img src="https://www.hackthebox.com/badge/image/019c47f0-5f0a-72d3-9a6c-b77918f3169f" alt="HackTheBox" width="48%" /></a>
 
 </div>
 
@@ -78,41 +86,46 @@ echo "Currently diving deep into cybersecurity while building cool stuff."
 ### `> cat ./security_roadmap.md`
 
 ```
-[■■■■■■■■░░░░░░░░░░░░] 40% — Road to Security Expert
-
-  ✅ Network Fundamentals
-  ✅ Linux Administration
-  ✅ Python for Security
-  🔄 Web Application Security (in progress)
-  🔄 Penetration Testing (in progress)
-  ⬚ Reverse Engineering
-  ⬚ Malware Analysis
-  ⬚ Cloud Security
-  ⬚ Bug Bounty Hunting
+[██░░░░░░░░░░░░░░░░░░] 10% — Road to Security Expert
 ```
+
+**LEVEL 1 — Foundation (기초)**
+
+| Category | Topic | Status |
+|----------|-------|--------|
+| 🌐 Network | Network Fundamentals | 🔄 In Progress |
+| 🐧 System | Linux Administration | ⬜ Not Started |
+| 🐍 Coding | Python for Security | ⬜ Not Started |
+| 🔐 Security Basics | CIA Triad / Auth / Crypto Basics | ⬜ Not Started |
+
+**LEVEL 2 — Intermediate (중급)**
+
+| Category | Topic | Status |
+|----------|-------|--------|
+| 🕸️ Web | Web Application Security (OWASP Top 10) | ⬜ Not Started |
+| 🛠️ Offensive | Penetration Testing (Nmap, Burp Suite) | ⬜ Not Started |
+| 🛡️ Defensive | Network Security & Monitoring | ⬜ Not Started |
+| 📜 Coding | Scripting for Automation (Bash/Python) | ⬜ Not Started |
+
+**LEVEL 3 — Advanced (고급)**
+
+| Category | Topic | Status |
+|----------|-------|--------|
+| 🔬 Analysis | Malware Analysis | ⬜ Not Started |
+| ⚙️ Reverse | Reverse Engineering | ⬜ Not Started |
+| ☁️ Cloud | Cloud Security (AWS/GCP/Azure) | ⬜ Not Started |
+| 🏗️ Architecture | Secure Architecture & Hardening | ⬜ Not Started |
+
+**LEVEL 4 — Expert (전문가)**
+
+| Category | Topic | Status |
+|----------|-------|--------|
+| 🎯 Offensive | Advanced Exploitation & Red Teaming | ⬜ Not Started |
+| 🐛 Bug Bounty | Bug Bounty Hunting | ⬜ Not Started |
+| 📝 Research | CVE Analysis & Security Research | ⬜ Not Started |
+| 🏆 Certification | OSCP / CEH / CompTIA Security+ | ⬜ Not Started |
 
 ---
-
-### `> cat ./featured_projects.md`
-
-| Project | Description |
-|---------|-------------|
-| [toy-project](https://github.com/527NotFound/toy-project) | OCR, Flask, Docker, OpenCV, Ollama, Next.js 기술 스택 학습 실습 |
-| [OCR-LocalOps-Pool](https://github.com/527NotFound/OCR-LocalOps-Pool) | Jenkins + Kubernetes 기반 OCR 워크플로 파이프라인 |
-
----
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│   "The quieter you become,                       │
-│    the more you are able to hear."               │
-│                                    — Kali Linux  │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=527NotFound&theme=green&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&hide_border=false&custom_title=527NotFound%27s%20Contribution%20Graph" width="95%" />
 
