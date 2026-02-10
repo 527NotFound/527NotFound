@@ -1,19 +1,12 @@
-```
-  ██████╗ ██████╗ ███████╗    ███╗   ██╗ ██████╗ ████████╗
- ██╔════╝██╔════╝ ╚════██║    ████╗  ██║██╔═══██╗╚══██╔══╝
- ██████╗ ██████╗      ██╔╝    ██╔██╗ ██║██║   ██║   ██║
- ╚════██╗╚═══██╗    ██╔╝      ██║╚██╗██║██║   ██║   ██║
- ██████╔╝██████╔╝   ██║       ██║ ╚████║╚██████╔╝   ██║
- ╚═════╝ ╚═════╝    ╚═╝       ╚═╝  ╚═══╝ ╚═════╝    ╚═╝
-              F O U N D
-```
-
 <div align="center">
+
+# &gt; 527NotFound_
+### `[ SYSTEM BREACH DETECTED ]`
 
 ### `> whoami`
 **Security Enthusiast | Backend Developer | DevOps Learner**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F527NotFound&count_bg=%2300FF00&title_bg=%23000000&icon=github.svg&icon_color=%2300FF00&title=visitors&edge_flat=true)](https://github.com/527NotFound)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F527NotFound&count_bg=%2300FF00&title_bg=%23000000&icon=github&icon_color=%2300FF00&title=visitors&edge_flat=true)](https://github.com/527NotFound)
 
 </div>
 
